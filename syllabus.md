@@ -31,22 +31,22 @@ Prerequisite: None
 # Syllabus Short Cuts:
 [Program Goals](#PROGRAM-GOALS)\
 [Course Goals](#Course-Goals)\
-Learning Outcomes
-Course Structure
-Students' Responsibilites 
-Attendance
-Evaluation & Grading
-Quantitative Grading Overview
-Qualitive Grading Overview
-[Special Notes About This Class](Special-Note-about-work-for-this-class)
-Late Work
-Technology In The Classroom
-Academic Integrity
-Accomodations
-Required Materials
-Required Readings
-Reguired Media
-Inclusion
+[Learning Outcomes](#Learning-Outcomes)\
+[Course Structure](#Course-Structure)\
+[Student Responsibilites](#STUDENT-RESPONSIBILITIES)\ 
+[Attendance](#Attendance)\
+[Evaluation & Grading](#Evaluation-&-Grading))\
+[Grade Breakdown](#Quantitive-Grading-Breakdown)\
+[Special Notes About This Class](#Special-Note-about-work-for-this-class)\
+[Late Work](#Late-Work)\
+[Technology In The Classroom](#Technology-In-The-Classroom)\
+[Academic Integrity](#Academic-Integrity)\
+[Accomodations](#Academic-Accomodations)\
+[Required Supplies](#Required-Supplies)\
+[Required Readings](#Required-Readings)\
+[Required Media](#Required-Media)\
+[Inclusion](#Inclusion)\
+[Assignment Links](#Assignment-links)
 
 
 
@@ -59,6 +59,8 @@ The following Integrated Digital Media program goals are introduced and reinforc
 *   develop a research and studio practice through inquiry and iteration.
 *   develop critical thinking skills that will allow one to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
 *   develop collaboration skills to actively and effectively work in a team or group.
+
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ### COURSE GOALS
 
@@ -75,6 +77,7 @@ To get students to:
 
 [More Information on What this class is about here](IdeationPrototypingClassInfo.md)
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ### LEARNING OUTCOMES
 
@@ -82,6 +85,7 @@ By the end of this course students should be able to:
 
 *   to search and spot ideas, and transform these invisible ideas into visible realizations
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ### COURSE STRUCTURE
 
@@ -97,7 +101,7 @@ Rules of the Critique:
 
 There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to five phases:
 
-
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ### STUDENT RESPONSIBILITIES
 
@@ -124,13 +128,12 @@ There will be discrete team and individual exercises and projects that require y
 * Take risks & be fearless in your projects
 * Have fun!
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ##### Attendance
 
 * If you find yourself in the situation where you can not come to class, for WHATEVER REASON, you are still responsible for the course material. All assignments are still due on time. If you need accommodations, you must communicate with me as well as the Coordinator of Student Advocacy and Compliance office at (eng.studentadvocate@nyu.edu & deanna.rayment@nyu.edu, 646.997.3046).
-
 * Attendance is mandatory. I will discuss how to do the assignments and my expectations. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. I cannot stress this enough. You must attend class to ensure that you are understanding how to work. I cover how to do the assignments in class, when they are assigned.
-
 * Unexcused absences will affect your grade, after 3 of them. 
 * Feedback sessions cannot be made up.
 * Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accrue an absence. See above
@@ -139,6 +142,9 @@ There will be discrete team and individual exercises and projects that require y
 * Work is still due on due dates, regardless of whether you are in class or not.
 * Material missed is the responsibility of the student to make up. Consult the syllabus. Speak to other classmates in order to find out what was discussed. Speak to several of them and at length. Check the Slack. 
 * If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, COVID issues, etc etc), please contact the Coordinator of Student Advocacy and Compliance at (eng.studentadvocate@nyu.edu, 646.997.3046). A note that office will excuse the absence. 
+
+[Back To The Top](#Syllabus-Short-Cuts)\
+
 
 ### EVALUATION & GRADING
 
@@ -154,16 +160,17 @@ I am looking at your development, depth, receptivity, fearlessness, communicatio
 Incomplete or unsatisfactory work (lacking depth and notable development strides) will receive a below satisfactory grade, after one has not addressed it in a reasonable period of time.
 
 
-##### Quantitative Grading Overview
+##### Quantitative Grading Breakdown
 
 *   8% Class participation: discussion and feedback of your peers, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   15% [Sketchbook](Sketchbook.md)
 *   12% [Constant Input/Output](constant_input_output.md)
 *   15% [Process Website](process_website.md), including all written reflections for all posts
-*   5% Classmate Discovery
 *   30% [Future Dystopia / Utopia Project Development](Future.md) 
-*   10% Future Dystopia / Utopia Project Final Presentation + Story
+*   15% Future Dystopia / Utopia Project Final Presentation + Story
+
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ##### Qualitative Grading Overview
 
@@ -182,6 +189,7 @@ Performance and attendance of the student has been less than adequate. Work is l
 ##### F. Unacceptable (59 & Below: Failing Course Requirements)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 ### Late Work
 
@@ -212,8 +220,9 @@ Late work beyond two weeks is submitted only under the advisement of the profess
 
 * Context and discussion of each assignment is addressed within the assigned modules and class. Make sure to read each module and be attentive in class, so as to complete each assignment appropriately. You can also ask questions in the assignment_questions channel in Slack. Public conversation is great! Your questions help everyone learn!
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
-### TECHNOLOGY USE IN THE CLASSROOM
+### TECHNOLOGY IN THE CLASSROOM
 
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. The experience is better for everyone in the class, if everyone can be present and active. It not only helps you, but it helps your neighbor. Again, we live in a community and we must think beyond our own needs.
 
@@ -223,6 +232,9 @@ When in class, you may use your laptops and other devices for any activities per
 
 Be forewarned, that if you are chronically in your devices and not participating in conversation, you will be called upon. Class is a community.
 
+[Back To The Top](#Syllabus-Short-Cuts)\
+
+
 ### ACADEMIC Integrity
 
 Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System.  Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
@@ -230,6 +242,8 @@ Violations of academic integrity are considered to be acts of academic dishonest
 Please review <a href="https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html">NYU's School of Engineering's academic dishonesty policy</a> in its entirety.  Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school.  Violations will not be tolerated.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 
 ### ACADEMIC ACCOMMODATIONS
@@ -239,6 +253,9 @@ NYU-Tandon is committed to assuring equal educational opportunity and full parti
 Students who believe they are eligible for course accommodations under the ADA or Section 504 or have had accommodations please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor. 
 
 Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Moses Center for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
+
+[Back To The Top](#Syllabus-Short-Cuts)\
+
 
 
 ### REQUIRED SUPPLIES
@@ -254,6 +271,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 * [Drawing Ideas by Mark Baskinger and William Bardel](https://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627) 
 Physical editions are ideal, but digital edition is fine.
 
+[Back To The Top](#Syllabus-Short-Cuts)\
 
 
 ### REQUIRED READINGS
@@ -271,6 +289,9 @@ _The following list of required readings may be incomplete and is subject to cha
 * Speculative Everything by Anthony Dunne and Fiona Raby
 * The Pocket Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions by  Bruce Hanington and Bella Martin 
 
+[Back To The Top](#Syllabus-Short-Cuts)\
+
+
 ### REQUIRED MEDIA
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
@@ -281,6 +302,9 @@ _The following list of required media may be incomplete and is subject to change
 * [Abstract: The Art of Design](https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2). Netflix required. Note there are 2 season, with each episode on a different person's practice. 
 * [The Creative Brain](https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp) <strike> Netflix required. </strike>
 
+[Back To The Top](#Syllabus-Short-Cuts)\
+
+
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
@@ -290,14 +314,13 @@ See Appendix
 
 The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious, castes and political affiliations, and abilities will be treated with respect.   It is my intent that all students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
 
+### Assignment Links
 
 #### Major Project
 * [Future](future.md)
 
 #### Mini Projects & On-Going Assignments
-* [Care Package](Care_Package.md)
 * [Input Map](input_map.md)
-* [Classmate Discovery](classmate_discovery.md)
 * [Constant Input/Output](constant_input_output.md)
 * [Sketchbook Work](Sketchbook.md)
 * [Time Management Exercises](Time_Management_System.md)
@@ -317,3 +340,5 @@ See Appendix
 ### [Productivity Resources](productivity_resources.md)
 
 ### [Recommended Journals and Planners](Planners.md)
+
+[Back To The Top](#Syllabus-Short-Cuts)\
