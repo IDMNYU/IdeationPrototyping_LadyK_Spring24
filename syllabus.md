@@ -6,7 +6,7 @@
    Office Hours: by appointment; Message me in Slack. I am available after class or at other times.
     
 
-#### Course Management Site: https://github.com/IDMNYU/IdeationPrototyping_A_SP23_LadyK
+#### Course Management Site: https://github.com/IDMNYU/IdeationPrototyping_LadyK_Spring24
 
 
 ---
@@ -28,8 +28,9 @@ Prerequisite: None
 
 [**Link to join Slack**](https://join.slack.com/t/nyu-7bn9815/shared_invite/zt-2apwxrsoj-s58LOi3V4UHAow_8_OXeww)
 
-[Program Goals](PROGRAM-GOALS)
-[Course Goals](Course-Goals)
+# Syllabus Short Cuts:
+[Program Goals](#PROGRAM-GOALS)\
+[Course Goals](#Course-Goals)\
 Learning Outcomes
 Course Structure
 Students' Responsibilites 
