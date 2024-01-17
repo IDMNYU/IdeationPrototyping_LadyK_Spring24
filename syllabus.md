@@ -20,7 +20,7 @@ _~Albert Einstein_
 
 In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research &amp; thinking, and prototyping can inspire, inform, and bring **depth** to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
 
-![Screenshot of the path of a creative process](https://alumni.sae.edu/wp-content/uploads/2016/05/creative-process.jpg)
+![Screenshot of the path of a creative process](https://alumni.sae.edu/wp-content/uploads/2016/05/creative-process.jpg) Image courtesy of the ASE Alumni
 
 Prerequisite: None
 
@@ -50,6 +50,7 @@ Prerequisite: None
 [Student Responsibilites](#Student-Responsibilities)\
 [Technology In The Classroom](#Technology-In-The-Classroom)\
 [Time Estimate per Week](#Time-Estimates-Per-Week)\
+[Using AI](#Using-AI)
 
 
 ### PROGRAM GOALS
@@ -220,6 +221,14 @@ Late work beyond two weeks is submitted only under the advisement of the profess
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
+### Using AI
+
+Should a student find the need to use AI for their coursework, they are required to: 1. discuss the need and 2. how they used it on their blog, 3. attaching screen shots of the correspondence.
+
+Course work submitted without this annotation, discussion, and documentation will be considered in violation of the [NYU Student Code of Conduct](https://engineering.nyu.edu/life-tandon/student-life/student-advocacy/student-code-conduct#chapter-id-34265).
+
+Positive/successful use of AI and generative software (in addition to documenting the process on your blog post) include a collaboration with the AI to further your process or information starting point about a topic. AI should never be used to finalize an assignment or information source. Students are repsonsible for cross checking the AI, verifying it's claims. Otherwise, they are responsible for the errors and "hallucinations" that the AI generates.
+
 ### Special Note about work for this class:
 
 * These are large projects which develop over _a series of weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time in between completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
@@ -332,6 +341,9 @@ The NYU Tandon School values an inclusive and equitable environment for all our 
 
 #### Major Project
 * [Future](future.md)
+The Future Project is comprised of many smaller exersices: Card Sorting, Mind Mapping, Concept Maps, Mood Boards, Prototypes (low & high; 2D and 3D), Timeline, Storyboards, Personas, Stakeholder Maps, various forms/types of research, an annotated bibliography, and a Final Presentation. 
+
+There will be several drafts and versions of each. All are required to be submitted if they wish to be evaluated as part of your process.
 
 #### Mini Projects & On-Going Assignments
 * [Input Map](input_map.md)

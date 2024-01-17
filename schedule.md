@@ -48,16 +48,18 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
     <td valign="top">
     <strong> Last Day to add/drop is Feb 4 </strong>
-    <li>Ideation Exercises</li>
+    <li>Ideation Exercises - 5 Whys</li>
+    <li> Uploading Images to the Blog</li>
     <li>Discuss: </li>
     <ul>
        <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
       <li> Sketching </li>
       <li> visual + design research</li>
-      <li> Universal Methods of Design</li>
-      <li> Interviews </li>
-    <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
-    </ul>
+    <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>   </ul>
+    <li>Screening : The Creative Brain by David Eagleman</li>
+     <li>Creativity & Assumptions & James Webb Young</li>
+        <li>What is your Process </li>
+        <li>Cabinets of Curiosities & Collecting </li>
     </td> 
     <td valign="top">
     <li> Read: </li>
@@ -76,15 +78,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Feb 5 & Feb 7</p></td>
     <td valign="top">
+         <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
+        <li> Discussion + Launch<a href = "Future.md"> The Future Project </a> </li>
+        <li> Ideation Exercise - Assumption Collecting </li>
         <li>Discuss: </li>
     <ul>
-          <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
         <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a> assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
-        <li>Creativity & Assumptions & James Webb Young</li>
-        <li>What is your Process </li>
-        <li>Screening : The Creative Brain by David Eagleman</li>
-        <li>Cabinets of Curiosities & Collecting </li>
         <li> Research: Looking + Observing</li>
     </ul>     
 <li>Review Homework</li>
@@ -92,10 +92,14 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
         <li>Read: </li>
         <ul>
+         <li>Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. <br>
+            You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) </li> 
+            <li> Review Card Sorting Exercise</li>
             <li> Show Your Work </li>
         </ul>
     <li>Do: </li>
-    <ul>
+      <ul>
+    <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
 </ul>
@@ -103,41 +107,37 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <td valign="top">wk 4<p>Feb 12 & Feb 14</p></td>
     <td valign="top"> 
-        <ul>
-        <li> Watch Everything is a Remix </li>
-        <li> SCAMPER Technique</li>
-        </ul>
+      <li> Card Sorting Exercise </li>
+      <li> Discuss Spectulative Everything </li>
+      <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
+      <li> Investing in The Future Exercise </li>  
     </td>
      <td valign="top">
         <li>Read: </li>
         <ul>
-            <li>Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. <br>
-            You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) </li> 
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <ul>
+    <ul><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk4.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td><tr>
 <td valign="top">wk 5<p>Feb 21 & Feb 26</p></td>
     <td valign="top"> 
-        <ul>  
-        <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
-        <li> Discussion + Launch<a href = "Future.md"> The Future Project </a> </li>
-        <li> Investing The Future Game </li>
+        <ul> 
+        <li>Mood Boards</li>
+        <li>Research methods</li>
+        <li> Screening: Everything is a Remix </li>
         </ul>
     </td>
      <td valign="top">
         <li>Read: </li>
         <ul>
-            <li>Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. <br>
-            You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) </li> 
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <ul>
+    <ul><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
@@ -146,9 +146,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 6<p>Feb 28 & March 4</p></td>
     <td valign="top"> 
         <ul>
-        <li> Discuss<a href = "Future.md"> The Future Project </a> </li>
-        <li>Moodboards</li>
-        <li>Research</li>
+        <li> Discuss Research & UMOD </li>
+        <li> Discuss Concept Maps</li>
         </ul>
     </td>
      <td valign="top">
@@ -167,9 +166,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
        <td valign="top">wk 7<p>March 6 & March 11</p></td> 
          <td>
-        <li>Discuss: Homework </li>
-        <li>In-class exercises </li>
-        <li>Concept Maps </li>
+        <li>Timelines </li>
+        <li> Personas </li>
+        <li> User Studies </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -190,9 +189,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 8<p>March 13 & March 25</p></td>
         <td>
         <li>Discuss: Homework </li>
-        <li>In-class exercises </li>
-        <li>Timelines</li>
-        <li>Personas</li>
+        <li>Stakeholders</li>
+        <li>Artifact</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -201,6 +199,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do:</li>
     <ul>
+        <li>Read the Letters From The Last Cohort (midterms) found in Slack and write a reflection regarding what you have taken from them regarding your own work.</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
@@ -210,9 +209,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9<p>March 27 & April 1</p></td>
         <td>
         <li>Discuss: Homework </li>
-        <li>In-class exercises </li>
-        <li> Stakeholders </li>
-        <li> Timelines </li>
+        <li>In-class exercises - Investing in the Future </li>
+        <li> Introduce and Discuss Final Presentations </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -261,7 +259,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-        <li>Read the Letters From The Last Cohort (midterms) found in Slack and write a reflection regarding what you have taken from them regarding your own work.</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td></tr> 
