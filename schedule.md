@@ -249,7 +249,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 11<p>April 10 & 15 </p></td>
         <td>
             <li> In-class exercises </li>
-        <li>Constant Input/Output Presentations April 17th</li>
+        <li>Constant Input/Output Presentations next week</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -265,6 +265,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
         <td valign="top">wk 12<p>April 17 & 22</p></td>
         <td>
+             <li>Constant Input/Output Presentations</li>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
      <td valign="top">
@@ -282,6 +283,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 13<p>April 24 & April 29</p></td>
         <td>
         <li>In class exercises</li>
+        <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
      <td valign="top">
         <li>Read: </li>
