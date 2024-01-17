@@ -49,6 +49,7 @@ Prerequisite: None
 [Special Notes About This Class](#Special-Note-about-work-for-this-class)\
 [Student Responsibilites](#Student-Responsibilities)\
 [Technology In The Classroom](#Technology-In-The-Classroom)\
+[Time Estimate per Week](#Time-Estimates-Per-Week)\
 
 
 ### PROGRAM GOALS
@@ -99,7 +100,22 @@ Rules of the Critique:
 * Give Feedback to your classmates
 * Do NOT take feedback personally.
 
-There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to five phases:
+There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to [five phases](IdeationPrototypingClassInfo.md).
+
+[Back To The Top](#Syllabus-Short-Cuts)
+
+### Time Estimates Per Week for Homework
+
+These are ball-park time estimates for various homework assignments given in this course. These estimates will vary per student, as they also will throughout the semester. In the beginning of the semester, the time will be spread across the assignments. As various assignments wrap up towards the end of the semester, that time will then be required to be dedicated towards The Future project. 
+
+Please manage your time and do not do your homework in one sitting. It will be stressful and not quality work. Students who spread the assignment across the week submit higher quality work under less stress, and work with greater ease.
+
+* Constant I/O Project - 60 minutes
+* Time Management - 15-25 minutes
+* Future Exercises - 60-180 minutes
+* Drawing Exercises - 30-120 minutes
+* Updating Blog with work and written reflections - 30-60 minutes
+* Readings from required books and links - 30 minutes
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
