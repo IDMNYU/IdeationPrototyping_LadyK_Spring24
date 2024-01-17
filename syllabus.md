@@ -37,7 +37,7 @@ Prerequisite: None
 [Attendance](#Attendance)\
 [Course Goals](#Course-Goals)\
 [Course Structure](#Course-Structure)\
-[Evaluation & Grading](#Evaluation-Grading)\
+[Evaluation & Grading](#Evaluation-and-Grading)\
 [Grade Breakdown](#Quantitative-Grading-Breakdown)\
 [Inclusion](#Inclusion)\
 [Late Work](#Late-Work)\
@@ -146,7 +146,7 @@ There will be discrete team and individual exercises and projects that require y
 [Back To The Top](#Syllabus-Short-Cuts)
 
 
-### Evaluation & Grading
+### Evaluation and Grading
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
