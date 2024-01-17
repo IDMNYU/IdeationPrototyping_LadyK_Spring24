@@ -37,7 +37,7 @@ Prerequisite: None
 [Attendance](#Attendance)\
 [Course Goals](#Course-Goals)\
 [Course Structure](#Course-Structure)\
-[Evaluation & Grading](#EVALUATION-GRADING)\
+[Evaluation & Grading](#EVALUATION-&-GRADING)\
 [Grade Breakdown](#Quantitative-Grading-Breakdown)\
 [Inclusion](#Inclusion)\
 [Late Work](#Late-Work)\
