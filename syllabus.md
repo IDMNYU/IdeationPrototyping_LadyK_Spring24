@@ -32,13 +32,13 @@ Prerequisite: None
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\
-[Accomodations](#Academic-Accomodations)\
+[Accomodations](#ACADEMIC-ACCOMMODATIONS)\
 [Assignment Links](#Assignment-links)\
 [Attendance](#Attendance)\
 [Course Goals](#Course-Goals)\
 [Course Structure](#Course-Structure)\
-[Evaluation & Grading](#Evaluation-&-Grading)\
-[Grade Breakdown](#Quantitive-Grading-Breakdown)\
+[Evaluation & Grading](#Evaluation-Grading)\
+[Grade Breakdown](#Quantitative-Grading-Breakdown)\
 [Inclusion](#Inclusion)\
 [Late Work](#Late-Work)\
 [Learning Outcomes](#Learning-Outcomes)\
@@ -47,7 +47,7 @@ Prerequisite: None
 [Required Readings](#Required-Readings)\
 [Required Supplies](#Required-Supplies)\
 [Special Notes About This Class](#Special-Note-about-work-for-this-class)\
-[Student Responsibilites](#Student-Responsibilities)\ 
+[Student Responsibilites](#Student-Responsibilities)\
 [Technology In The Classroom](#Technology-In-The-Classroom)\
 
 
