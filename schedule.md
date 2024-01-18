@@ -191,6 +191,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Discuss: Homework </li>
         <li>Stakeholders</li>
         <li>Artifact</li>
+        <li> SCAMPER Technique</li>
     </td>
      <td valign="top">
         <li>Read: </li>
