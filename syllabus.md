@@ -50,7 +50,7 @@ Prerequisite: None
 [Student Responsibilites](#Student-Responsibilities)\
 [Technology In The Classroom](#Technology-In-The-Classroom)\
 [Time Estimate per Week](#Time-Estimates-Per-Week)\
-[Using AI](#Using-AI)
+[Using Generative AI](#Using-Generative-AI)
 
 
 ### PROGRAM GOALS
@@ -221,7 +221,7 @@ Late work beyond two weeks is submitted only under the advisement of the profess
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
-### Using AI
+### Using Generative AI
 
 Should a student find the need to use AI for their coursework, they are required to: 1. discuss the need and 2. how they used it on their blog, 3. attaching screen shots of the correspondence.
 
