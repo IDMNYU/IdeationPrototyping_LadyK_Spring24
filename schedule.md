@@ -48,18 +48,18 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
     <td valign="top">
     <strong> Last Day to add/drop is Feb 4 </strong>
-    <li>Ideation Exercises - 5 Whys</li>
-    <li> Uploading Images to the Blog</li>
+    <li>Ideation Exercises - 5 Whys, Idea Bug, Assumption Map, How Might We</li>
+    <li> Uploading Images to the Blog & Blog Recap</li>
     <li>Discuss: </li>
-    <ul>
        <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
       <li> Sketching </li>
-      <li> visual + design research</li>
-    <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>   </ul>
+        </ul>
     <li>Screening : The Creative Brain by David Eagleman</li>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>What is your Process </li>
         <li>Cabinets of Curiosities & Collecting </li>
+        <li>visual + design research</li>
+    <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li> 
     </td> 
     <td valign="top">
     <li> Read: </li>
@@ -69,7 +69,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
-        <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: Use the bug exercise to go deeper. Perhaps even do a second mind map. I'd like you to get to the specific points to answer the following: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Sundays - 2pm EST.) Post to your process website, under constant input/output tab. Also, gather and secure the resources you need to work.</li>
+        <li>Post to your <a href= "constant_input_output.md">constant input/output</a> The results of the exercises and a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2</a></li>
         <li> Post your <a href = "SketchBook_wk2.md"> sketchbook </a>work to your Process site under the "sketchbook" tab.</li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>

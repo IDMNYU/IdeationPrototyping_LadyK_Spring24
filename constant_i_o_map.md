@@ -24,11 +24,11 @@ Take pictures of your maps, INCLUDING CLOSE UPS. Make sure they are clear and go
 
 Examples from Previous Students:
 
-[Yamila Madrid](https://wp.nyu.edu/tandonschoolofengineering-ipyamilam_sp23/constant-i-o-maps/)
-[Chloe Myers](https://wp.nyu.edu/tandonschoolofengineering-myerscommachloe_processsite_sp23/constant-input-output-maps/)
-[Nina Chu](https://wp.nyu.edu/tischschoolofthearts-nina_chu/2022/01/30/constant-input-output-maps/)
-[Ashley](https://wp.nyu.edu/tandonschoolofengineering-ideationprotytpingspring2022/2022/01/26/constant-input-output-map/)
-[Jeremy Lao](https://wp.nyu.edu/tandonschoolofengineering-younglao/input-and-output-maps/)
+[Yamila Madrid](https://wp.nyu.edu/tandonschoolofengineering-ipyamilam_sp23/constant-i-o-maps/)\
+[Chloe Myers](https://wp.nyu.edu/tandonschoolofengineering-myerscommachloe_processsite_sp23/constant-input-output-maps/)\
+[Nina Chu](https://wp.nyu.edu/tischschoolofthearts-nina_chu/2022/01/30/constant-input-output-maps/)\
+[Ashley](https://wp.nyu.edu/tandonschoolofengineering-ideationprotytpingspring2022/2022/01/26/constant-input-output-map/)\
+[Jeremy Lao](https://wp.nyu.edu/tandonschoolofengineering-younglao/input-and-output-maps/)\
 
 
  
