@@ -69,7 +69,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
-        <li>Post to your <a href= "constant_input_output.md">constant input/output</a> The results of the exercises and a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2</a></li>
+        <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li> Post your <a href = "SketchBook_wk2.md"> sketchbook </a>work to your Process site under the "sketchbook" tab.</li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>

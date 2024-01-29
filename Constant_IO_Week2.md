@@ -12,6 +12,8 @@ The goal of this assignment is
 * understand your desire + passion
 * understand where you might fail
 * understand how to combat your failures
+* what your next steps are
+* what resources you need
 
 
 0. Some students have been given feedback that their ideas are a bit general and they have been directed to do another round of mind mapping. If you are in this group or you've changed your mind, do another round of mind mapping and post images to your site.

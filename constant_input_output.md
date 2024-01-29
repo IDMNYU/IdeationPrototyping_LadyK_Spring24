@@ -35,9 +35,8 @@ What’s new and different in your life in the following categories? Why does it
 *   Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
 *   Reference:
     *   [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
-    *   [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)
-    *   [30 Motion Tests in 30 Seconds Plus Interview](http://greyscalegorilla.com/blog/2011/01/30-motion-tests-in-30-seconds-plus-interview)
-    *   [Nicole Meyer’s A logo a day for branding 10,000 lakes](http://www.psfk.com/2011/09/branding-10000-lakes-one-minnesota-lake-one-logo-every-day.html)
+    *   [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html) which then translated to a [book](https://www.amazon.com/gp/product/1600610919/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1600610919&linkCode=as2&tag=344designcom-20)
+    *   [Nicole Meyer’s A logo a day for branding 10,000 lakes](https://typedeck.com/state-mottos-and-lake-logos/)
     *   [Terry Difileliciantonio’s 15 weeks of games](https://15weeksofgames.wordpress.com/)
     *   [Dear Data](http://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
     * [From Personal Project to a 40-Book Cover Commission](http://99u.com/articles/53891/from-personal-project-to-a-40-book-cover-commission)
@@ -46,3 +45,4 @@ What’s new and different in your life in the following categories? Why does it
 
 
 ##### All posts are due on Sundays by 2pm EST
+
