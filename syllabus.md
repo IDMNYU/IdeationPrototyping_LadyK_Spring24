@@ -1,5 +1,7 @@
 ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2024 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person
+* **Professor: Katherine Bennett**
+* **Email: Katherine.Bennett@nyu.edu** 
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
@@ -129,6 +131,9 @@ Please manage your time and do not do your homework in one sitting. It will be s
 * Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
 * Complete all assignments and post to your site by due dates and time deadlines - Sunday 2pm EST
 * Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence. Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same. You must be active in class.
+* Email contact about logistics (when, where, how many, etc) ONLY
+* Talk to me in real-time about issues or problems
+* If something is up, communicate with me. Do not be shy. Reach out and let's connect. Even if you do not quite have the words, I'm here to help you. I can't help you if I do not know that something is up.
 * Acquire and read all assigned readings before they are due
 * Do. not. do. your. homework. in. one. sitting. Do not do it all the night before its due. Start it early to give yourself time to ask questions and get answers. Review the Letters to The Next CoHort!
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
