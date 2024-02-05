@@ -54,7 +54,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
       <li> Sketching </li>
         </ul>
-    <li>Screening : The Creative Brain by David Eagleman</li>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>What is your Process </li>
         <li>Cabinets of Curiosities & Collecting </li>
@@ -80,12 +79,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
          <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
         <li> Discussion + Launch<a href = "Future.md"> The Future Project </a> </li>
-        <li> Ideation Exercise - Assumption Collecting </li>
+        <li> Ideation Exercise - Card Sorting </li>
         <li>Discuss: </li>
     <ul>
         <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a> assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
         <li> Research: Looking + Observing</li>
+        <li>Screening : The Creative Brain by David Eagleman</li>
     </ul>     
 <li>Review Homework</li>
 </td>  
