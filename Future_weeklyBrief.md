@@ -4,11 +4,23 @@
 # [Future Project](Future.md)
 
 
+### Semester Week 4 | Week 2: Future Project - Card Sorting & World creation (part a):
+
+1. If you did not do mind maps exploring themes, do them!
+
+2. Expand on your deck: Your descriptor cards need to be specific with reference to your them. They describe your theme! Your enabler cards should also be specific as their are techniques, mechanisms, things and materials to make your theme a (future) reality.
+
+3. CardSorting Exercise (see below): Do this exercise 2-3 times. The goal of this exercises is to find your core theme that you will explore through your world. It may take a couple go's to get the hang of it. The third time may help you land on something solid. DO THIS. Do not do it in one sitting. Spread it out. Let your brain rest. Students that rush this end up with projects they don't like, aren't supported and flat. You don't want this.
+
+4. Write about each of your ideas, discussing them and summarizing them.
+
+5. Where are you at, at the end of these exercises? What is your idea (or top ideas) so far (CardSorting)? What new developments did you realize from the work completed with your elements? 
+
+6. What might you start researching to educate yourself on various topics within this world? List them and be specifc.
+
+7. You may begin a Mood Board for this world, if you wish. You will be developing this over the next few weeks.
 
 
-
-
-  Create a written statement regarding what your Future project is going to be about. Where are you at the end of your card sorting? What sort of specific ideas arose from the interplay and ideation of your themes, descriptors and enabler cards?
 
 ### Semester Week 3a | Week 1: Future Project - Launch & Create Your Deck
 
@@ -28,6 +40,8 @@
 
 7. Post the visuals to your blog along with a written reflection about what was generated, what is developing, where you are at and what questions do you have. What assumptions do you have?
 
+ Create a written statement regarding what your Future project is going to be about. Where are you at the end of your card sorting? What sort of specific ideas arose from the interplay and ideation of your themes, descriptors and enabler cards?
+
 
 #### Card Sorting exercise as outlined in class. Capture clear visual documentation of the exercise and post to your Process site (under the Future/Final tab),  along with a written reflection articulating the 3 outcomes that you generated.
 
@@ -35,9 +49,9 @@
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, Flying cars is not a theme. That would be an ingredient in your world. That can be in your world, but it doesn't work as a theme. Instead a theme is much more broad, such as disability, genetics, memory, bioengineering, etc.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Choose a second color of card (or pen, or graphic) and create a set (5) of descriptor cards _for each theme_. That means 5 cards for each theme. *These descriptor cards should be adjective or traits or aspects with regards to each theme.* You should have at least 15 descriptor cards total by the end of this exercise.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Choose a second color of card (or pen, or graphic) and create a set (5+) of descriptor cards _for each theme_. That means 5+ cards for each theme. *These descriptor cards should be adjective or traits or aspects with regards to each theme.* You should have at least 15 descriptor cards total by the end of this exercise.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Choose a different color of card (or pen, or graphic) and create at least 3 enabler cards for _each theme_. *These enabler cards describe what would need to occur to have your theme be put into motion/made a reality.* For example, if you had a theme of "nanorobots curing cancer", some enabler cards might be: Government backed research labs, bot cleanse centers (think: Dialysis Centers), universal health care vouchers, needle exchange programs, STEAM education begins in primary school.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Choose a different color of card (or pen, or graphic) and create at least 3+ enabler cards for _each theme_. *These enabler cards describe what would need to occur to have your theme be put into motion/made a reality.* For example, if you had a theme of "nanorobots curing cancer", some enabler cards might be: Government backed research labs, bot cleanse centers (think: Dialysis Centers), universal health care vouchers, needle exchange programs, STEAM education begins in primary school.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Now is the fun part. Take a look at all of your cards. Lay all the themes and their cards out on the table and start to pull descriptor and enabler cards that interest you (choosing from all the themes). Start to make associations between the cards to form ideas. If you don’t see what you want on an existing card, add more descriptor and enabler cards in a miscellaneous group that is not attached to an existing theme.
 
