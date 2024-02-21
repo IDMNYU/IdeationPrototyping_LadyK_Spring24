@@ -5,11 +5,15 @@
 
 ### Semester Week 5a | Week 3: Future Project - Ideas & Research & Visuals
 
-0. If you did not mix up ALL of your cards and generate 3-5 ideas, do that. See the Card Sorting Exercise at the bottom for more information - part D/ Step 5 in the slides in the Slack Resources
+0. If you did not mix up ALL of your cards and generate 3-5 ideas, do that. See the Card Sorting Exercise at the bottom for more information - part D/ Step 5 in the slides in the Slack Resources. Document and post these images and a summary of your ideas.
 
-1. Begin (or continue) a Mood Board which shows visual evidence of the idea you are choosing. This Mood Board should be diverse with content and images
+1. Take one or two of your chosen ideas and use the Abstraction Laddering Technique to narrow (or broaden, in the rare case) the focus of your main idea. Sketch it out. Document and post images along with a summary.
 
-2. Identify 3-4 contemporary resources that are suitable for your project. These should not all be about the same topics. Being your annotated bibliography, summarizing each of the resources specific value with reference towards your project.
+2. Sketch out a priority map (personally excited vs important) and plot your idea and other aspects (perhaps from other ideas or other cards from the card sorting). Post the visual to your site.
+
+3. Begin (or continue) a Mood Board which shows visual evidence of the idea you are choosing. This Mood Board should be diverse with content and images
+
+4. Identify 3-4 contemporary resources that are suitable for your project. These should not all be about the same topics. Being your annotated bibliography, summarizing each of the resources specific value with reference towards your project.
 
 
 ### Semester Week 4 | Week 2: Future Project - Card Sorting 
