@@ -3,8 +3,16 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 5a | Week 3: Future Project - Ideas & Research & Visuals
 
-### Semester Week 4 | Week 2: Future Project - Card Sorting & World creation (part a):
+0. If you did not mix up ALL of your cards and generate 3-5 ideas, do that. See the Card Sorting Exercise at the bottom for more information - part D/ Step 5 in the slides in the Slack Resources
+
+1. Begin (or continue) a Mood Board which shows visual evidence of the idea you are choosing. This Mood Board should be diverse with content and images
+
+2. Identify 3-4 contemporary resources that are suitable for your project. These should not all be about the same topics. Being your annotated bibliography, summarizing each of the resources specific value with reference towards your project.
+
+
+### Semester Week 4 | Week 2: Future Project - Card Sorting 
 
 1. If you did not do mind maps exploring themes, do them!
 

@@ -109,8 +109,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
       <li> Card Sorting Exercise </li>
       <li> Discuss Spectulative Everything </li>
-      <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
-      <li> Investing in The Future Exercise </li>  
+      <li> Screening: Everything is a Remix </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -123,48 +122,48 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td><tr>
-<td valign="top">wk 5<p>Feb 21 & Feb 26</p></td>
+<td valign="top">wk 5a<p>Feb 21</td>
     <td valign="top"> 
-        <ul> 
-        <li>Mood Boards</li>
-        <li>Research methods</li>
-        <li> Screening: Everything is a Remix </li>
-        </ul>
+        <li>Discuss Homework</li>
+          <li>Mood Boards</li>
+          <li>Research methods</li>
     </td>
      <td valign="top">
         <li>Read: </li>
-        <ul>
             <li> Show Your Work </li>
-        </ul>
     <li>Do:</li>
-    <ul><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+   <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    </ul>
         </td>
+        <tr><td valign="top"> wk 5b Feb 26 & <br> wk 6a Feb 28</td>
+            <td>  
+                <li>Discuss Homework</li>
+        <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
+      <li> Investing in The Future Exercise </li></td>
+      <td><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+            <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+            <li><a href ="Time_Management_System.md">Time Management System</a></li>
+            </tr></td>
         <tr>
-<td valign="top">wk 6<p>Feb 28 & March 4</p></td>
+<td valign="top">wk 6b March 4 & <br> wk 7a March 6</td>
     <td valign="top"> 
-        <ul>
         <li> Discuss Research & UMOD </li>
         <li> Discuss Concept Maps</li>
-        </ul>
+        <li> In class exercises</li>
     </td>
      <td valign="top">
         <li>Read: </li>
-        <ul>
             <li> Show Your Work </li>
-        </ul>
     <li>Do:</li>
-    <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk6.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    </ul>
         </td> 
 </tr>
 <tr>
-       <td valign="top">wk 7<p>March 6 & March 11</p></td> 
+       <td valign="top">wk 7b March 11 & <br> wk 8a March 13</td> 
          <td>
         <li>Timelines </li>
         <li> Personas </li>
@@ -172,21 +171,17 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
      <td valign="top">
         <li>Read: </li>
-        <ul>
             <li> FINISH: Show Your Work </li>
-        </ul>
     <li>Do:</li>
-    <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li> Post your <a href = "SketchBook_wk7.md">sketchbook</a> work to your Process site under Sketchbook</li>
-    </ul>
         </td> </tr>
         <tr>
         <td valign="top"><p> March 18-22</p></td><td>SPRING</td><td>SPRING BREAK</td></tr>
         <tr>
-        <td valign="top">wk 8<p>March 13 & March 25</p></td>
+        <td valign="top">wk 8b March 25 & <br> wk9a March 27</td>
         <td>
         <li>Discuss: Homework </li>
         <li>Stakeholders</li>
@@ -195,22 +190,18 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
      <td valign="top">
         <li>Read: </li>
-        <ul>
             <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
-    <ul>
         <li>Read the Letters From The Last Cohort (midterms) found in Slack and write a reflection regarding what you have taken from them regarding your own work.</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    </ul>
         </td></tr>
                 <tr>
-        <td valign="top">wk 9<p>March 27 & April 1</p></td>
+        <td valign="top">wk 9b April 1 & <br> wk 10a April 3</p></td>
         <td>
         <li>Discuss: Homework </li>
-        <li>In-class exercises - Investing in the Future </li>
+        <li>In-class exercises - Future Object</li>
         <li> Introduce and Discuss Final Presentations </li>
     </td>
      <td valign="top">
@@ -226,7 +217,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 10<p>April 3 & 8</p></td>
+        <td valign="top">wk 10b April 8 & <br> wk 11a April 10</td>
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
@@ -247,7 +238,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>                       
 <tr>
-        <td valign="top">wk 11<p>April 10 & 15 </p></td>
+        <td valign="top">wk 11b April 15 & <br> wk 12a April 17 </td>
         <td>
             <li> In-class exercises </li>
         <li>Constant Input/Output Presentations next week</li>
@@ -264,7 +255,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr> 
         <tr>
-        <td valign="top">wk 12<p>April 17 & 22</p></td>
+        <td valign="top">wk 12b April 22 & <br> wk 13a April 24</td>
         <td>
              <li>Constant Input/Output Presentations</li>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
@@ -281,10 +272,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 13<p>April 24 & April 29</p></td>
+        <td valign="top">wk 13b April 29 & wk 14a May 1</td>
         <td>
-        <li>In class exercises</li>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
+          <li>Final Future Presentations</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -298,7 +289,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 14<p>May 1 & 6</p></td>
+        <td valign="top">wk 14b May 6</td>
         <td>
         <li>Final Future Presentations</li>
     </td>
