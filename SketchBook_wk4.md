@@ -3,7 +3,7 @@
 
 ###### Read 
 
-* Drawing Ideas ch 2 p.70 Orthographic Projections - 81; Study & Read
+* Drawing Ideas ch 2 p.70 Orthographic Projections - 77; Study & Read
 
 ###### Sketch: Orthographic & Curved Planes
 
