@@ -140,7 +140,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <td>  
                 <li>Discuss Homework</li>
         <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
-      <li> Investing in The Future Exercise </li></td>
+      <li> Investing in The Future Exercise </li>
+   <li> Feedback Exercises </li><</td>
       <td><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
             <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>

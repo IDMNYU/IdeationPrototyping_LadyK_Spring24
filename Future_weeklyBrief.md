@@ -3,6 +3,59 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 5b - 6a | Week 4: Future Project - Define Idea & Develop World Aspects
+
+0. Post the out come of the class exercises. These are the questions posed to you from Monday and what was generated from _Investing In the Futures Game_. This includes the World Building of your group's world and the Identity prompts. How can you apply these experiences to your project and to strengthen your project?
+
+
+1. Focus in on your _Idea_. What is it? You should be able to boil it down to 3-5 sentences. This is your Elevator Pitch/Presentation/Encapsulation. (The time it takes to ride in an elevator and convene to someone about your idea for your Future Project). These should be concise meaningful sentences. Post this to your Process Site.
+
+
+2. Develop & Define your idea with reference to the exercises, feedback and class directives. This could include catching up, mind mapping, The Bug, 5 Why's, Assumption Map, How Might We and Premortem. If you have not already covered such things nor was your name called in class, you need to spend time in this step. This applies to about half of the class. Otherwise, continue below.
+
+
+3. Identify 4-5 resources to inform your project. Three (3) may be able diverse aspects/vantage points of your idea. The rest are to be about one or two categories that you are defining within your world. See below. Add these to your [annotated bibliography](Future_Annotated_Bibliography.md).
+
+4. Identifiy 6 of the 11 possibility categories below to use within your *WORLD* to develop it. Note that this is larger than your _idea_ and separate from it. Define them with reference to your world. Post about this and find a resource or two to add to your annotated bibliography.
+
+Food Availability <br>
+Information & Learning <br>
+Transportation <br>
+Climate <br>
+Communication <br>
+Government <br>
+Living Conditions <br>
+Work Conditions <br>
+Economic System <br>
+Health <br>
+Shared Values<br>
+
+
+5. Further Develop your Mood Board given the above developments
+
+
+6. Between Feb 26 & March 9th Watch one of the Movies below. If your world is not far out in the future, push it further. One of these movies should help you see how to do this. Post about the movie you chose and how it's impacted your Future Project.
+
+
+* REQ VIEWING: due 4/10: one of the Sci-Fi movies from the list:
+
+  * Minority Report (2002)
+  * Downsizing (2017)
+  * Her (2013)
+  * Sorry To Bother You (2018)
+  * eXistenZ (1999)
+  * The Matrix (1999)
+  * Dark City (1998)
+  * The Lobster (2015)
+  * Brazil (1985)
+  * Ex Machina (2015)
+  * Eternal Sunshine of The Spotless Mind (2004)
+  * Ghost in the Shell (1995, anime)
+  * 2001 A Space Odyssey (1968)
+  * Inception (2010)
+  * Lucy (2014)
+
+
 ### Semester Week 5a | Week 3: Future Project - Ideas & Research & Visuals
 
 0. If you did not mix up ALL of your cards and generate 3-5 ideas, do that. See the Card Sorting Exercise at the bottom for more information - part D/ Step 5 in the slides in the Slack Resources. Document and post these images and a summary of your ideas.

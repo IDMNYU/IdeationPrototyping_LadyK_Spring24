@@ -54,7 +54,7 @@ You will develop this world and project through the following assignments over t
 * Flyer/Technical Manual (Low-fi) 
 * Flyer/Technical Manual (High-fi) 
 * Evidence of Ingredient Research -  <strong> 5+ sources annotated  </strong>
-* Evidence of Theme Research - <strong> 8+ diverse sources, annotated </strong>
+* Evidence of Theme Research - <strong> 8+ diverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
 * Storyboard  -  <strong>  </strong>
 
 ## Part 3: 
