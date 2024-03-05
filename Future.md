@@ -53,8 +53,8 @@ You will develop this world and project through the following assignments over t
 * Future Object/Artifact (High-fidelity 3-D prototype)<strong> </strong>
 * Flyer/Technical Manual (Low-fi) 
 * Flyer/Technical Manual (High-fi) 
-* Evidence of Ingredient Research -  <strong> 5+ sources annotated  </strong>
-* Evidence of Theme Research - <strong> 8+ diverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
+* Evidence of World Categories Research -  <strong> 5+ sources annotated  </strong>
+* Evidence of Idea Research - <strong> 8+ diverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
 * Storyboard  -  <strong>  </strong>
 
 ## Part 3: 
