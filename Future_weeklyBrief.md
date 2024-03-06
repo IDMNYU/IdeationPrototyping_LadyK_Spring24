@@ -3,6 +3,22 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 6b - 7a | Week 5: Future Project - Define Idea & Develop World Aspects II
+
+0. Post the outcome of the class exercises. These include the questions posed to you and bad ideas from Monday, and the round robin. Write a reflection of how this went
+
+1. Post a mind map exploring the central idea or problem that you are exploring through your world. Use the Idea Bug to further explore this idea.
+
+2. Create a Hypothesis Statement or Problem Statement regarding your main idea/problem. Do 2 of the following exercises : the Assumption Map, 5 Why's and/or Premortem to further explore your idea through your world.
+
+3. Start a concept map exploring your idea and world. This delves into the mechanics of your idea as well as how to is affected by the world. Remember that a concept map explores the relationships between entries. This will be interated over the next several weeks. Miro is helpful with this.
+
+
+4. Start a timeline in relation to your idea and world. The timeline does not have to start from the present and extend to your world. It does not have to talk about how your world came into being. Yet, it should explore the cause and effect of events over time. This will be interated over the next several weeks. 
+
+5. Mind map possible objects/artifacts you wish to make. This objects/artifacts is something from your world. It can be anything. It does not have to be the obvious. Yet, it should be meaningful with reference to some aspect or event.
+
+
 ### Semester Week 5b - 6a | Week 4: Future Project - Define Idea & Develop World Aspects
 
 0. Post the out come of the class exercises. These are the questions posed to you from Monday and what was generated from _Investing In the Futures Game_. This includes the World Building of your group's world and the Identity prompts. How can you apply these experiences to your project and to strengthen your project?
