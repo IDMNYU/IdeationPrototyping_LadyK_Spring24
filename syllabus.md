@@ -358,6 +358,8 @@ See Appendix
 
 The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious, castes and political affiliations, and abilities will be treated with respect.   It is my intent that all students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
 
+If you feel that you have been discriminated against (for whatever reason), please contact the Bias Response reporting form : https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/bias-response.html.
+
 [Back To The Top](#Syllabus-Short-Cuts)
 
 ### Assignment Links
