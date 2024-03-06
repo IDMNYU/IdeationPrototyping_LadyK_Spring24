@@ -37,6 +37,7 @@ Prerequisite: None
 [Accomodations](#ACADEMIC-ACCOMMODATIONS)\
 [Assignment Links](#Assignment-links)\
 [Attendance](#Attendance)\
+[Communication](#Communication)\
 [Course Goals](#Course-Goals)\
 [Course Structure](#Course-Structure)\
 [Evaluation & Grading](#Evaluation-and-Grading)\
@@ -157,13 +158,30 @@ Please manage your time and do not do your homework in one sitting. It will be s
 * If you find yourself in the situation where you can not come to class, for WHATEVER REASON, you are still responsible for the course material. All assignments are still due on time. If you need accommodations, you must communicate with me as well as the Coordinator of Student Advocacy and Compliance office at (eng.studentadvocate@nyu.edu & deanna.rayment@nyu.edu, 646.997.3046).
 * Attendance is mandatory. I will discuss how to do the assignments and my expectations. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. I cannot stress this enough. You must attend class to ensure that you are understanding how to work. I cover how to do the assignments in class, when they are assigned.
 * Unexcused absences will affect your grade, after 3 of them. 
+* 5 or more unexcused absenses is grounds to be dismissed from the course or failing the coure.
 * Feedback sessions cannot be made up.
-* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accrue an absence. See above
+* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accrue an un excused absence. See above
 * Contact the professor IN ADVANCE if you will not be in class (via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
 * Work is still due on due dates, regardless of whether you are in class or not.
-* Material missed is the responsibility of the student to make up. Consult the syllabus. Speak to other classmates in order to find out what was discussed. Speak to several of them and at length. Check the Slack. 
+* Material missed is the responsibility of the student to make up. Consult the syllabus. Speak to other classmates in order to find out what was discussed. Speak to several of them and at length. Check the Slack. Office hours are not for making up lost class time.
 * If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, COVID issues, etc etc), please contact the Coordinator of Student Advocacy and Compliance at (eng.studentadvocate@nyu.edu, 646.997.3046). A note that office will excuse the absence. 
+
+[Back To The Top](#Syllabus-Short-Cuts)
+
+### Communication
+
+* Slack Direct Message is the preferred manner of contacting me. Messages will be responded to between 24-48 hours of being received, Monday - Friday. Emails and Slack Direct messages will not be responded over the weekend, nor on holidays.
+* For time sensitive matters, email me. Messages will be responded to between 24-48 hours of being received, Monday - Friday. Emails and Slack Direct messages will not be responded over the weekend, nor on holidays.
+* Messages and asynchronous communications are to be professional at all times. Unprofessional emails will not be tolerated nor engaged with. If you have an issue, make an appointment with me during office hours.
+* Messages and asynchronous communications are to cover logistics (when, where, how many?) only
+* Talk to me in person about issues and problems. Do not direct message me with long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.) Make an office hour appointment with me.
+* Messages and asynchronous communications that exceed many paragraphs will only be responded to with a request to meet. You are to respond with a time that you can meet.
+* Constant back-and-forth asynchronous communications will not be tolerated. 
+* Multiple emails sent within a short window of time are unprofessional and will not be tolerated.
+* Weekly feedback will be given to students via Slack Direct Message in the beginning of the week, provided there new content exists on the student's blog by the Sunday 2pm deadline. If the deadline is missed, work will be reviewed the following week and counted as late. Late work effects your progress and your Process site grade.
+* Students are to refer to the Github site and the Slack workspace for course materials, directives, assignment briefs and resources. This material is available to you at all hours of the day.
+
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
