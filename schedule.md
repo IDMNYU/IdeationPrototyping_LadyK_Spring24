@@ -159,7 +159,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk6.md">sketchbook</a> work to your Process site under Sketchbook</li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
         </td> 
 </tr>
