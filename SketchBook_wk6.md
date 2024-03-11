@@ -3,17 +3,19 @@
 
 ###### Read 
 
-* Drawing Ideas ch 2 p.98 - 115; Study & Read
+* Drawing Ideas ch 2 p.86 - 91; Study & Read
 
-###### Sketch: Human figures & Hands + Interactions
+###### Sketch: Rotation, Ellipses, Rotational Profiles + Human figures 
 
-- Sketchbook warm up: draw a set of a Stick Figure, Starfish person, and Bobular figure. These are a crew. Draw the crew in 3 different configurations and positions. Have the first one be standing. Then perhaps the next crew configuration: one bends to the side to their toes, another leans back, another leans forward (but is viewed from the side). Draw your own crew configuration for the last one.
+ - Sketchbook: Imagine (or use a real-life example of) a coffee cup in front of you. Draw the opening/top of the coffee cup, from different vantage points relative to our body. Looking down at the top. Having that cup at our lips. Move it left. Move it right. Draw a half page of ellipse (the top of the cup) from different angles. See the red box. Practice in the air first. Watch your shoulder positions. Draw it clockwise and counter clock wise.
 
-- Sketchbook warm up: Draw your own set of 5 custom figures. Each being different. Play with different geographic shapes for the body, arms, and leds
+- Sketchbook: Do the "Crash Course: Drawing an Ellipse"
 
-- Take one of your crew (or two) and show them in motion. Use arrows and draw a series of "frames" showing the action, gesture and direction. Watch your curves of your shape.
+- Sketchbook: Do the "Crash Course: Constructing Cyclinders"
 
-- Fill half a page showing this character in a variety of positions and movements (20+ positions). These are meant to be kinda quick and easy, once you get your bearing.
+- Sketchbook: Do the "Crash Course: Rotational Profiles"
+
+
 
 
 

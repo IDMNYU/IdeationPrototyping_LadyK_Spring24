@@ -3,6 +3,24 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 7b - 8a | Week 6: Future Project - Mechanics of The Idea through your world 
+
+Posts due to Process Site by 14:00 March 17
+
+0.0  Catch up on previous exercises. Especially any from last week that you missed
+
+0. Post the outcome of the ALL of the in-class exercises with a reflection. How can you use this to develop your world?
+
+1. Iterate and develop your concept map. This is a great place to explore the mechanics of your idea through your world. Work on a digital platform so that you are not limited by the page's end. Explain the relationship between entries.
+
+2. Gather 4 more resources - 2 for your IDEA & 2 for categories (not your idea). Annotate them and add them to your bibliography. Look at reputable new sources. What is going on today that you could remix strategically into your project??
+
+3. Develop your Timeline further.
+
+4. Develop a draft of 3 different Personas. These are 3 general people from your world.
+
+
+
 ### Semester Week 6b - 7a | Week 5: Future Project - Define Idea & Develop World Aspects II
 
 0. Post the outcome of the class exercises. These include the questions posed to you and bad ideas from Monday, and the round robin. Write a reflection of how this went
