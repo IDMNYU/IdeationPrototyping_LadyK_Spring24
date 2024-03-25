@@ -3,6 +3,26 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 8b - 9a | Week 7: Future Project - 
+
+0. Post the outcome of the exercises from class and a reflection. Tell me how your project is changing.
+
+1. Refine your *concept map*. Make sure your concept map explores the main idea you are researching. Note that this is not your world, as your world is your setting! What is your focus/idea to explore through this world? Use the concept map to explore the mechanics of your idea within your world. Label the relationships. Do not be limited by the edge of the page.
+
+2. Add to your *timeline*. Add events that are not solely related to your main idea, but also other events in your world. Secondly, explore the cause and effect of various events. If you've had a bit event related to your idea, what happened as a result of that? Go deeper and get specific. (Not just sweeping and big ideas.)
+
+3. *Iterate and add to your personas.* These are general examples of people in your world. See the brief on github and the slides in Slack.
+
+
+4. Begin to explore who are all the *stakeholders* in your world, with relation to your main idea/concept. Who are all these people and what is their relationship? Create a list that you will iterate and refine next week.
+
+5. *Do a new mindmap, which explores different possible artifacts* for you to create from your world. This artifact can relate directly to your idea, but it does not have to. What are some other possibilities, give the world you've created and the interests that you have?
+
+6. Reflection: How is your project developing? Where are you struggling? What do you need help with?
+
+By this point, you should have a clear understanding of your main concept that is occuring in your world. You should have a sense of some general people from your world and their emotions, desires and struggles. The core people involved and effected by your concept should be coming clear. You should have an idea within time of what happened first, second, third. Perhaps you start to see possibilites of a few narratives emerging. If so, tell me what these narrartives are briefly. If not, tell me where your project needs support. Be specific in your questions
+
+
 ### Semester Week 7b - 8a | Week 6: Future Project - Mechanics of The Idea through your world 
 
 Posts due to Process Site by 14:00 March 17
