@@ -176,6 +176,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li> Post your <a href = "SketchBook_wk6.md">sketchbook</a> work to your Process site under Sketchbook</li>
         </td> </tr>
         <tr>
@@ -196,6 +197,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><b> Due April 7th: </b>Post your <a href = "SketchBook_wk_7.md">sketchbook</a> work to your Process site under Sketchbook</li>
         </td></tr>
                 <tr>
         <td valign="top">wk 9b April 1 & <br> wk 10a April 3</p></td>
@@ -214,6 +216,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+      <li><b> Due April 7th: </b> Post your <a href = "SketchBook_wk_7.md">sketchbook</a> work to your Process site under Sketchbook</li>
     </ul>
         </td></tr>
         <tr>
