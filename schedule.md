@@ -203,6 +203,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9b April 1 & <br> wk 10a April 3</p></td>
         <td>
         <li>Discuss: Homework </li>
+        <li>Discuss: Self Assessment</li>
         <li>In-class exercises - Future Object</li>
         <li> Introduce and Discuss Final Presentations </li>
     </td>
@@ -214,6 +215,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+        <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due April 14th</strong></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
       <li><b> Due April 7th: </b> Post your <a href = "SketchBook_wk_7.md">sketchbook</a> work to your Process site under Sketchbook</li>
@@ -237,6 +239,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare Constant Input/Constant Ouput Presentation</li> 
+          <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due April 14th</strong></li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td></tr>                       

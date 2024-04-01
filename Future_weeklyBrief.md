@@ -3,6 +3,28 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 9b - 10a | Week 8: Future Project - 
+
+0. Post the outcome of the exercises and the feedback that you received.
+
+1. Develop your project as you've been directed to in your weekly feedback. Fill the critical holes.
+
+2. Find 2-5 more research resources that are benefiting you, at the given point that you are at. What can you research to help give you ideas about your idea conflict (to elaborate it) and/or other aspects (ie categories) of your world that have not been developed with reference to your main concept. Remember: Copy, Transform, Combine.!
+
+3. Sketch out a loose narrative for your world, with reference to your idea. How can you communicate your idea and the conflict of it? Consider the point it needs to be told from. It doesn't need to be the beginning of your world, nor the end. Perhaps it's some point in the middle. Also brainstorm what point of view this narrative is told from (no omniscient). Consider your personas and stakeholders. Or perhaps it's from another view point? Tell me about it.
+
+4. Do a few pages of sketches exploring your artifact from different angles (physical and conceptual). How does this thing work? What is it's purpose? Consider detailed views and overall view (ie, bird)
+
+5. Rest.
+
+** note: High-Fideltiy Personas, Timelines and Stakeholders are required by April 21.**
+
+** note: Midterm Self Evaluation Due March 14 **
+
+** Did you watch one of the movies from the suggested list? If not, do one! **
+
+
+
 ### Semester Week 8b - 9a | Week 7: Future Project - 
 
 0. Post the outcome of the exercises from class and a reflection. Tell me how your project is changing.
