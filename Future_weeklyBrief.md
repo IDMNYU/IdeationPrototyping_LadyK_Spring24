@@ -19,7 +19,7 @@
 
 ** note: High-Fideltiy Personas, Timelines and Stakeholders are required by April 21.**
 
-** note: Midterm Self Evaluation Due March 14 **
+** note: Midterm Self Evaluation Due April 14 **
 
 ** Did you watch one of the movies from the suggested list? If not, do one! **
 
