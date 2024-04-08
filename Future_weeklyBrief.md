@@ -3,6 +3,19 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 10b - 11a | Week 9: Future Project -
+
+0. Post the outcome of the exercises and the feedback that you received.
+
+1. Develop your project as you've been directed to in your weekly feedback. Fill the critical holes.
+
+2. Develop a low-fi physical prototype of your artifact. Post images and reflect on the process.
+
+3. Find 2-4 more research resources that are benefiting you, at the given point that you are at. What can you research to help give you ideas about your idea conflict (to elaborate it) and/or other aspects (ie categories) of your world that have not been developed with reference to your main concept. Remember: Copy, Transform, Combine.!
+
+4. Work on your narrative, developing and iterating it.
+
+
 ### Semester Week 9b - 10a | Week 8: Future Project - 
 
 0. Post the outcome of the exercises and the feedback that you received.
