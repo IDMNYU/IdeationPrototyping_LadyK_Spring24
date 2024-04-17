@@ -5,15 +5,15 @@
 
 ### Semester Week 11b - 12a | Week 10: Future Project -
 
-0. Post the outcome of the exercises and the feedback that you received.
+0. Post the outcome of the exercises and the feedback that you received. Post a reflection on how any of them are impacting your work. Be specific
 
-1. Work on your storyboard for your narrative. Think about the important parts of the story, as well as the story's shape.
+1. Work on your storyboard for your narrative. Think about the important parts of the story, as well as the story's shape. Begin to sketch it out.
 
-2. Work on your artifact
+2. Work on your artifact. What did you learn from the last version? Create another version. Perhaps another low-fidelity (yet different material) or lowish.
 
-3. Brainstorm different mechanisms of presenting your Final Presentation
+3. Brainstorm different mechanisms of presenting your Final Presentation. Your world should be in the center. Branching out from that are options. This should be open and vast. Let your mind go. What do these things also make you think off? This brainstorm should be vast and deep.
 
-4. Gather 2-3 resources for creating that Final Future Presentation
+4. Gather 2-3 resources for creating that Final Future Presentation. What might you need to know? What are you modelling your presentation off of?
 
 ### Semester Week 10b - 11a | Week 9: Future Project -
 
