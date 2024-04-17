@@ -3,6 +3,18 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 11b - 12a | Week 10: Future Project -
+
+0. Post the outcome of the exercises and the feedback that you received.
+
+1. Work on your storyboard for your narrative. Think about the important parts of the story, as well as the story's shape.
+
+2. Work on your artifact
+
+3. Brainstorm different mechanisms of presenting your Final Presentation
+
+4. Gather 2-3 resources for creating that Final Future Presentation
+
 ### Semester Week 10b - 11a | Week 9: Future Project -
 
 0. Post the outcome of the exercises and the feedback that you received.
