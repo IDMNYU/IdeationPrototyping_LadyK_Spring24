@@ -3,6 +3,21 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 12b - 13a | Week 11: Future Project -
+
+0. Work on the feedback you've been given (from me and your group). How is your project evolving?
+
+1. Storyboard - work to develop and iterate your narrative on your storyboard
+
+2. Artifact - work to evolve and develop your thinking about your artifact. Do you need another low-fi iteration to help you think through what this thing is and how it works? What are you learning from your prototypes?
+
+3. Develop your Future Final Presentation. Show your process! 
+    - Mind-map/brainstorm the mechanism you are using for your final presentation.
+    - What research needs to be done? Do you need to look up some websites? Reference some texts? Interview someone? Visit a place and be a fly on the wall?
+    - moodboards, personas, concept maps, and other visual research
+    - storyboard - how is your final presentation going to happen?
+    
+
 ### Semester Week 11b - 12a | Week 10: Future Project -
 
 0. Post the outcome of the exercises and the feedback that you received. Post a reflection on how any of them are impacting your work. Be specific
