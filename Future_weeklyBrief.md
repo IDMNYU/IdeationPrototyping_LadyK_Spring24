@@ -16,7 +16,7 @@
     - What research needs to be done? Do you need to look up some websites? Reference some texts? Interview someone? Visit a place and be a fly on the wall?
     - moodboards, personas, concept maps, and other visual research
     - storyboard - how is your final presentation going to happen?
-    
+    - ??
 
 ### Semester Week 11b - 12a | Week 10: Future Project -
 
