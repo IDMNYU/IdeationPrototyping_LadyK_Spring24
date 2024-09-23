@@ -10,3 +10,5 @@ You will synthesis what you are noticing in your notebook, readings, writings, a
 There will be two self assessments for the course. One will be due at midterm and the other at the end of the semester. These reflective writings will require you to critically evaluate your process and execution in the class. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Use this as a guide. </a>
 
 **Each assessment should be direct messaged to the instructor as a pdf on Slack.**
+
+** Midterm: Only do "Self" and "classmates". The others you will do at the end of the semester. **
